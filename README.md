@@ -1,5 +1,5 @@
 [![Bintray](https://img.shields.io/badge/npm-cool-green)](https://www.npmjs.com/package/@pthread/async-operators)
-![Bintray](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FAliShamin%2Fjs-async-operators)
+[![Bintray](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FAliShamin%2Fjs-async-operators)](https://twitter.com/ali_sshamin)
 
 # async-operators
 
