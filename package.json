@@ -2,9 +2,9 @@
     "name": "@pthread/async-operators",
     "repository": {
         "type": "git",
-        "url": "https://github.com/shaminGit/async-operators.git"
+        "url": "https://github.com/AliShamin/js-async-operators.git"
     },
-    "version": "1.0.1",
+    "version": "1.1.1",
     "description": "Perform Async Map, Reduce and Filter operations on array with callbacks",
     "licence": "MIT",
     "main": "./src/index.js",
