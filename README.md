@@ -1,4 +1,5 @@
-[![npm (scoped)](https://img.shields.io/github/issues/AliShamin/js-async-operators)](https://www.npmjs.com/package/@pthread/async-operators)
+[![Bintray](https://img.shields.io/badge/npm-cool-green)](https://www.npmjs.com/package/@pthread/async-operators)
+
 # async-operators
 
 Async is Cool !!
