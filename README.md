@@ -1,4 +1,4 @@
-https://img.shields.io/github/issues/AliShamin/js-async-operators
+[![npm (scoped)](https://img.shields.io/github/issues/AliShamin/js-async-operators)](https://www.npmjs.com/package/@pthread/async-operators)
 # async-operators
 
 Async is Cool !!
