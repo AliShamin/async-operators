@@ -13,17 +13,17 @@ $ npm install @pthread/async-operators
 ```js
 let { asyncMap, asyncFilter, asyncReduce } = require("async-operators")
 
-//asyncMap(list, mapper, callback)
-asyncMap([1, 2, 3, 4, 5, 6], i => i * 2, ar => console.log(ar))
-console.log("i executed first")
+//asyncMap(list, mapper)
+asyncMap([1, 2, 3, 4, 5, 6], i => i * 2).then(o=>{console.log(o)});
+console.log("i executed first");
 
-//asyncReduce(list, reducer, callback)
-asyncReduce([1, 2, 3, 4, 5, 6], (a, c) => a + c, d => console.log(d))
-console.log("i executed first")
+//asyncReduce(list, reducer)
+asyncReduce([1, 2, 3, 4, 5, 6], (a, c) => a + c).then(o=>{console.log(o)});
+console.log("i executed first");
 
-//asyncFilter(list, filter, callback)
-asyncFilter([1, 2, 3, 4, 5, 6], i => i>2, d => console.log(d))
-console.log("i executed first")
+//asyncFilter(list, filter)
+asyncFilter([1, 2, 3, 4, 5, 6], i => i>2).then(o=>{console.log(o)});
+console.log("i executed first");
 
 ```
 
